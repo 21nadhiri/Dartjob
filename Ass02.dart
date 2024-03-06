@@ -51,4 +51,3 @@ void main() {
   List<int> testList = [1, 2, 3, 4, 5];
   print('First Element of the List: ${getFirstElement(testList)}');
 }
-
